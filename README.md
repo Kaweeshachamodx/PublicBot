@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img border-radius: 15px src="https://i.imgur.com/pZY6d0S.mp4" width="200" height="200"/>
+  <img border-radius: 15px src="https://telegra.ph/file/cdae2d0df7dbfef8afbe2.jpg" width="200" height="200"/>
   <p align="center">
 <a href="#"><img title="JulieMwol" src="https://img.shields.io/badge/JulieMwol-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
